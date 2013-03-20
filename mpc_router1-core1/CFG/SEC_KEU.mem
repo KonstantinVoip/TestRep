@@ -1,0 +1,2 @@
+reservedchar 0x21	// display '!' for invalid reads
+range	0xE003E400 0xE003E41F 8 Write	// KEUKDn registers
