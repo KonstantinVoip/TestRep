@@ -20,7 +20,7 @@ asm void system_call()
 void main()
 {
 	int i=0;
-	printf(Super_Jew);
+	printf("Super_Jew\n\r");
 	
 	printf("Welcome to CodeWarrior!\r\n");
 
